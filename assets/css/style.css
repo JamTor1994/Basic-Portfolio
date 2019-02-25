@@ -1,0 +1,15 @@
+header {
+    background: #ffffff;
+    font: #777777;
+    border: #cccccc;
+    font-family: 'Georgia', 'Times New Roman', Times, serif
+}
+body {
+    background: #ffffff;
+    border: #dddddd;
+    width: 960x;
+    font-family: 'Arial', 'Helvetica Neue', sans-serif
+}
+title {}
+p {}
+footer{}
